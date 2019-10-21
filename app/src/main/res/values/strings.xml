@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Vinson Lau</string>
+    <string name="my_pic">My Profile Picture</string>
+    <string name="my_profile_description">
+           DOB: 1/1/2020
+        \n Address: TARUC Hostel
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n Hobbies: Attend Mobile Application Development classes
+        \n
+    </string>
+</resources>
