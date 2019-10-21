@@ -5,34 +5,36 @@
     <string name="my_profile_description">
            DOB: 1/1/2020
         \n Address: TARUC Hostel
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
-        \n
         \n Hobbies: Attend Mobile Application Development classes
         \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
     </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">done</string>
 </resources>
